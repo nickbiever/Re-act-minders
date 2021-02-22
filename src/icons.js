@@ -1,4 +1,4 @@
-let icons = [
+export let icons = [
   "face.smiling.fill",
   "bookmark.fill",
   "mappin",
